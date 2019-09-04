@@ -1,0 +1,31 @@
+a {color: #ffff00;}
+
+    body {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: white;
+        background-color: purple;
+        text-align: center;
+        }
+
+    h3 {color: #ffff00;}
+
+    ul {width: 40%;
+        margin: auto;
+        }
+
+    table {
+        margin: auto;
+        width: 800px;
+    }
+
+    th {
+        padding: 3px;
+    }
+
+    td {
+        padding-left: 8px;
+        padding-right: 8px;
+        border: 1px solid #32004a;
+        background-color: #b666d2;
+        color: #0000ff
+    }

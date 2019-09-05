@@ -11,7 +11,7 @@ function validateForm() {
     valid = 0;
     name_validation.innerHTML = "Field Required";
     name_validation.style.display = "block";
-    name_validation.parentNode.style.backgroundColor = "#FF0000 ";
+    name_validation.parentNode.style.backgroundColor = "#FF0000";
   } else {
     name_validation.style.display = "none";
     name_validation.parentNode.style.backgroundColor = "transparent";
